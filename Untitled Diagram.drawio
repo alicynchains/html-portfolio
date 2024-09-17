@@ -44,6 +44,9 @@
         <mxCell id="BD42WgskRUeJ-UKjsTUL-4" value="How is it marked?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="35" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BD42WgskRUeJ-UKjsTUL-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BD42WgskRUeJ-UKjsTUL-7" target="BD42WgskRUeJ-UKjsTUL-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BD42WgskRUeJ-UKjsTUL-7" value="circle =&amp;nbsp; final choice" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="35" width="120" height="40" as="geometry" />
         </mxCell>
@@ -96,6 +99,9 @@
         </mxCell>
         <mxCell id="BD42WgskRUeJ-UKjsTUL-28" value="ANIMATE A WIGGLE ON SCREEN THEN STOP AND MOVE ONTO THE NEXT ITEM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="540" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BD42WgskRUeJ-UKjsTUL-32" value="add all the final choices to an array called results." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="120" width="120" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
